@@ -1,0 +1,3 @@
+/home/ayudha/workspace/ComputerVision/CMakeFiles/edit_cache.dir
+/home/ayudha/workspace/ComputerVision/CMakeFiles/rebuild_cache.dir
+/home/ayudha/workspace/ComputerVision/CMakeFiles/DisplayImage.dir
