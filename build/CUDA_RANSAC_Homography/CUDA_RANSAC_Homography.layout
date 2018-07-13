@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="CUDA_RANSAC_Homography.cu" open="1" top="1" tabpos="2">
+		<Cursor position="2005" topLine="69" />
+	</File>
+	<File name="CUDA_RANSAC_Homography.h" open="0" top="0" tabpos="0">
+		<Cursor position="341" topLine="0" />
+	</File>
+	<File name="CUDA_SVD.cu" open="1" top="0" tabpos="3">
+		<Cursor position="522" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="517" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

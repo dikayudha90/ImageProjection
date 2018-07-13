@@ -116,7 +116,9 @@
             <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
             <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
             <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/cuda/include" />
             <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/cuda_akaze" />
          </Compiler>
          <MakeCommands>
             <Build command="/usr/bin/make -f &quot;/home/ayudha/workspace/ComputerVision/build/Makefile&quot;  VERBOSE=1 DisplayImage" />
@@ -204,7 +206,9 @@
             <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
             <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
             <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/cuda/include" />
             <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/cuda_akaze" />
          </Compiler>
          <MakeCommands>
             <Build command="/usr/bin/make -f &quot;/home/ayudha/workspace/ComputerVision/build/Makefile&quot;  VERBOSE=1 DisplayImage/fast" />
@@ -220,7 +224,46 @@
       <Unit filename="/home/ayudha/workspace/ComputerVision/src/FeatureMatch.cpp">
          <Option target="DisplayImage"/>
       </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/Projection.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/VisualOdometry.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/fed.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/filter.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
       <Unit filename="/home/ayudha/workspace/ComputerVision/src/main.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/matcher.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/matrix.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/nldiffusion_functions.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/reconstruction.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/triangle.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/utils.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/viso.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/viso_mono.cpp">
+         <Option target="DisplayImage"/>
+      </Unit>
+      <Unit filename="/home/ayudha/workspace/ComputerVision/src/viso_stereo.cpp">
          <Option target="DisplayImage"/>
       </Unit>
       <Unit filename="/home/ayudha/workspace/ComputerVision/CMakeLists.txt">

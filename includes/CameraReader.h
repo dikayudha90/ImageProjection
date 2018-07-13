@@ -14,6 +14,8 @@ class CameraReader{
                 void Update();
                 Mat getCamLeft();
                 Mat getCamRight();
+                Mat getCamLeftGray();
+                Mat getCamRightGray();
 	private:
                 // SELECT CAM ID FOR YOUR CAMS
                 int camL;

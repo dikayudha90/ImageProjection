@@ -81,9 +81,153 @@ CMakeFiles/DisplayImage.dir/src/main.cpp.o.provides: CMakeFiles/DisplayImage.dir
 CMakeFiles/DisplayImage.dir/src/main.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/main.cpp.o
 
 
+CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o: ../src/nldiffusion_functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o -c /home/ayudha/workspace/ComputerVision/src/nldiffusion_functions.cpp
+
+CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/nldiffusion_functions.cpp > CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/nldiffusion_functions.cpp -o CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/Projection.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/Projection.cpp.o: ../src/Projection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DisplayImage.dir/src/Projection.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/Projection.cpp.o -c /home/ayudha/workspace/ComputerVision/src/Projection.cpp
+
+CMakeFiles/DisplayImage.dir/src/Projection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/Projection.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/Projection.cpp > CMakeFiles/DisplayImage.dir/src/Projection.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/Projection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/Projection.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/Projection.cpp -o CMakeFiles/DisplayImage.dir/src/Projection.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/Projection.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/Projection.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/Projection.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/Projection.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/Projection.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/Projection.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/Projection.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/Projection.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/utils.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/utils.cpp.o: ../src/utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DisplayImage.dir/src/utils.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/utils.cpp.o -c /home/ayudha/workspace/ComputerVision/src/utils.cpp
+
+CMakeFiles/DisplayImage.dir/src/utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/utils.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/utils.cpp > CMakeFiles/DisplayImage.dir/src/utils.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/utils.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/utils.cpp -o CMakeFiles/DisplayImage.dir/src/utils.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/utils.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/utils.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/utils.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/utils.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/utils.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/utils.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/utils.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/utils.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o: ../src/viso_mono.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o -c /home/ayudha/workspace/ComputerVision/src/viso_mono.cpp
+
+CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/viso_mono.cpp > CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/viso_mono.cpp -o CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/fed.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/fed.cpp.o: ../src/fed.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/DisplayImage.dir/src/fed.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/fed.cpp.o -c /home/ayudha/workspace/ComputerVision/src/fed.cpp
+
+CMakeFiles/DisplayImage.dir/src/fed.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/fed.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/fed.cpp > CMakeFiles/DisplayImage.dir/src/fed.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/fed.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/fed.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/fed.cpp -o CMakeFiles/DisplayImage.dir/src/fed.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/fed.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/fed.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/fed.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/fed.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/fed.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/fed.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/fed.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/fed.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/filter.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/filter.cpp.o: ../src/filter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/DisplayImage.dir/src/filter.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/filter.cpp.o -c /home/ayudha/workspace/ComputerVision/src/filter.cpp
+
+CMakeFiles/DisplayImage.dir/src/filter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/filter.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/filter.cpp > CMakeFiles/DisplayImage.dir/src/filter.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/filter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/filter.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/filter.cpp -o CMakeFiles/DisplayImage.dir/src/filter.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/filter.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/filter.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/filter.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/filter.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/filter.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/filter.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/filter.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/filter.cpp.o
+
+
 CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
 CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o: ../src/CameraReader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o"
 	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o -c /home/ayudha/workspace/ComputerVision/src/CameraReader.cpp
 
 CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.i: cmake_force
@@ -105,9 +249,129 @@ CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o.provides: CMakeFiles/DisplayI
 CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o
 
 
+CMakeFiles/DisplayImage.dir/src/viso.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/viso.cpp.o: ../src/viso.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/DisplayImage.dir/src/viso.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/viso.cpp.o -c /home/ayudha/workspace/ComputerVision/src/viso.cpp
+
+CMakeFiles/DisplayImage.dir/src/viso.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/viso.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/viso.cpp > CMakeFiles/DisplayImage.dir/src/viso.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/viso.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/viso.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/viso.cpp -o CMakeFiles/DisplayImage.dir/src/viso.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/viso.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/viso.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/viso.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/viso.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/viso.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/viso.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/viso.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/viso.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o: ../src/reconstruction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o -c /home/ayudha/workspace/ComputerVision/src/reconstruction.cpp
+
+CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/reconstruction.cpp > CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/reconstruction.cpp -o CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o: ../src/VisualOdometry.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o -c /home/ayudha/workspace/ComputerVision/src/VisualOdometry.cpp
+
+CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/VisualOdometry.cpp > CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/VisualOdometry.cpp -o CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/matcher.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/matcher.cpp.o: ../src/matcher.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/DisplayImage.dir/src/matcher.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/matcher.cpp.o -c /home/ayudha/workspace/ComputerVision/src/matcher.cpp
+
+CMakeFiles/DisplayImage.dir/src/matcher.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/matcher.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/matcher.cpp > CMakeFiles/DisplayImage.dir/src/matcher.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/matcher.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/matcher.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/matcher.cpp -o CMakeFiles/DisplayImage.dir/src/matcher.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/matcher.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/matcher.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/matcher.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/matcher.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/matcher.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/matcher.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/matcher.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/matcher.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o: ../src/viso_stereo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o -c /home/ayudha/workspace/ComputerVision/src/viso_stereo.cpp
+
+CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/viso_stereo.cpp > CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/viso_stereo.cpp -o CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o
+
+
 CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
 CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o: ../src/FeatureMatch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o"
 	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o -c /home/ayudha/workspace/ComputerVision/src/FeatureMatch.cpp
 
 CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.i: cmake_force
@@ -129,21 +393,97 @@ CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o.provides: CMakeFiles/DisplayI
 CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o
 
 
+CMakeFiles/DisplayImage.dir/src/matrix.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/matrix.cpp.o: ../src/matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/DisplayImage.dir/src/matrix.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/matrix.cpp.o -c /home/ayudha/workspace/ComputerVision/src/matrix.cpp
+
+CMakeFiles/DisplayImage.dir/src/matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/matrix.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/matrix.cpp > CMakeFiles/DisplayImage.dir/src/matrix.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/matrix.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/matrix.cpp -o CMakeFiles/DisplayImage.dir/src/matrix.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/matrix.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/matrix.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/matrix.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/matrix.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/matrix.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/matrix.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/matrix.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/matrix.cpp.o
+
+
+CMakeFiles/DisplayImage.dir/src/triangle.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
+CMakeFiles/DisplayImage.dir/src/triangle.cpp.o: ../src/triangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/DisplayImage.dir/src/triangle.cpp.o"
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/src/triangle.cpp.o -c /home/ayudha/workspace/ComputerVision/src/triangle.cpp
+
+CMakeFiles/DisplayImage.dir/src/triangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/src/triangle.cpp.i"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ayudha/workspace/ComputerVision/src/triangle.cpp > CMakeFiles/DisplayImage.dir/src/triangle.cpp.i
+
+CMakeFiles/DisplayImage.dir/src/triangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/src/triangle.cpp.s"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ayudha/workspace/ComputerVision/src/triangle.cpp -o CMakeFiles/DisplayImage.dir/src/triangle.cpp.s
+
+CMakeFiles/DisplayImage.dir/src/triangle.cpp.o.requires:
+
+.PHONY : CMakeFiles/DisplayImage.dir/src/triangle.cpp.o.requires
+
+CMakeFiles/DisplayImage.dir/src/triangle.cpp.o.provides: CMakeFiles/DisplayImage.dir/src/triangle.cpp.o.requires
+	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/src/triangle.cpp.o.provides.build
+.PHONY : CMakeFiles/DisplayImage.dir/src/triangle.cpp.o.provides
+
+CMakeFiles/DisplayImage.dir/src/triangle.cpp.o.provides.build: CMakeFiles/DisplayImage.dir/src/triangle.cpp.o
+
+
 # Object files for target DisplayImage
 DisplayImage_OBJECTS = \
 "CMakeFiles/DisplayImage.dir/src/main.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/Projection.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/utils.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/fed.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/filter.cpp.o" \
 "CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o" \
-"CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o"
+"CMakeFiles/DisplayImage.dir/src/viso.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/matcher.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/matrix.cpp.o" \
+"CMakeFiles/DisplayImage.dir/src/triangle.cpp.o"
 
 # External object files for target DisplayImage
 DisplayImage_EXTERNAL_OBJECTS =
 
 DisplayImage: CMakeFiles/DisplayImage.dir/src/main.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/Projection.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/utils.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/fed.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/filter.cpp.o
 DisplayImage: CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/viso.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/matcher.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o
 DisplayImage: CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/matrix.cpp.o
+DisplayImage: CMakeFiles/DisplayImage.dir/src/triangle.cpp.o
 DisplayImage: CMakeFiles/DisplayImage.dir/build.make
 DisplayImage: /home/ayudha/Downloads/opencv-3.4.1/build/lib/libopencv_xfeatures2d.so.3.4.1
 DisplayImage: /home/ayudha/Downloads/opencv-3.4.1/build/lib/libopencv_cudafeatures2d.so.3.4.1
+DisplayImage: /usr/local/cuda/lib64/libcudart_static.a
+DisplayImage: /usr/lib/x86_64-linux-gnu/librt.so
 DisplayImage: /home/ayudha/Downloads/opencv-3.4.1/build/lib/libopencv_ml.so.3.4.1
 DisplayImage: /home/ayudha/Downloads/opencv-3.4.1/build/lib/libopencv_shape.so.3.4.1
 DisplayImage: /home/ayudha/Downloads/opencv-3.4.1/build/lib/libopencv_video.so.3.4.1
@@ -160,7 +500,7 @@ DisplayImage: /home/ayudha/Downloads/opencv-3.4.1/build/lib/libopencv_imgproc.so
 DisplayImage: /home/ayudha/Downloads/opencv-3.4.1/build/lib/libopencv_core.so.3.4.1
 DisplayImage: /home/ayudha/Downloads/opencv-3.4.1/build/lib/libopencv_cudev.so.3.4.1
 DisplayImage: CMakeFiles/DisplayImage.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable DisplayImage"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ayudha/workspace/ComputerVision/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable DisplayImage"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/DisplayImage.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -169,8 +509,21 @@ CMakeFiles/DisplayImage.dir/build: DisplayImage
 .PHONY : CMakeFiles/DisplayImage.dir/build
 
 CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/main.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/Projection.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/utils.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/fed.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/filter.cpp.o.requires
 CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/viso.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/matcher.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o.requires
 CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/matrix.cpp.o.requires
+CMakeFiles/DisplayImage.dir/requires: CMakeFiles/DisplayImage.dir/src/triangle.cpp.o.requires
 
 .PHONY : CMakeFiles/DisplayImage.dir/requires
 

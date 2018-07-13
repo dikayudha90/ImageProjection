@@ -53,6 +53,18 @@ Mat CameraReader::getCamRight(){
 	return imgR;
 }
 
+Mat CameraReader::getCamLeftGray(){
+	Mat grayImgL;
+	cvtColor(imgL, grayImgL, CV_RGB2GRAY);
+	return grayImgL;
+}
+
+Mat CameraReader::getCamRightGray(){
+	Mat grayImgR;
+	cvtColor(imgR, grayImgR, CV_RGB2GRAY);
+	return grayImgR;
+}
+
 void CameraReader::Update(){
 
 	if (! (capL->grab() && capR->grab()) ) {

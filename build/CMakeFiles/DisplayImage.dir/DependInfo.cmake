@@ -6,7 +6,20 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ayudha/workspace/ComputerVision/src/CameraReader.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/CameraReader.cpp.o"
   "/home/ayudha/workspace/ComputerVision/src/FeatureMatch.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/FeatureMatch.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/Projection.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/Projection.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/VisualOdometry.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/VisualOdometry.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/fed.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/fed.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/filter.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/filter.cpp.o"
   "/home/ayudha/workspace/ComputerVision/src/main.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/main.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/matcher.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/matcher.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/matrix.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/matrix.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/nldiffusion_functions.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/nldiffusion_functions.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/reconstruction.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/reconstruction.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/triangle.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/triangle.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/utils.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/utils.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/viso.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/viso.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/viso_mono.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/viso_mono.cpp.o"
+  "/home/ayudha/workspace/ComputerVision/src/viso_stereo.cpp" "/home/ayudha/workspace/ComputerVision/build/CMakeFiles/DisplayImage.dir/src/viso_stereo.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -81,6 +94,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/ayudha/Downloads/opencv_contrib-3.4.1/modules/face/include"
   "/home/ayudha/Downloads/opencv_contrib-3.4.1/modules/optflow/include"
   "/home/ayudha/Downloads/opencv-3.4.1/modules/stitching/include"
+  "/usr/local/cuda/include"
+  "/usr/local/include/cuda_akaze"
   )
 
 # Targets to which this target links.
